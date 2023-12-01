@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Burger
 - 👀 I’m interested in learning anything that has to do with Software Engineering!
-- 🌱 I’m currently learning Python/JavaScript!
+- 🌱 I’m currently learning Python/Swift!
 - 💞️ I’m looking to collaborate on any basic/intermediate level projects!
 - 📫 How to reach me
    - Discord: _gabeburger
