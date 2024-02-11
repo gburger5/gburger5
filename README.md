@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Gabriel Burger<br>- 👀 I’m interested in learning anything that has to do with Software Engineering/Development!<br>- 🌱 I’m currently learning C++/Swift/SwiftUI!<br>- 💞️ I’m looking to collaborate on any basic/intermediate level projects!
+<br>- 👋 Hi, I’m Gabriel Burger<br>- 👀 I’m interested in learning anything that has to do with Software Engineering/Development!<br>- 🌱 I’m currently learning C++/Swift/SwiftUI!<br>- 💞️ I’m looking to collaborate on any basic/intermediate level projects!
 
 
 ## 🌐 Socials:
