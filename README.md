@@ -1,4 +1,4 @@
-![terraform](https://github.com/user-attachments/assets/cdd748bf-58f6-450d-a051-7dbdef3d8ebb)# 💫 About Me:
+#💫 About Me:
 
 https://gburger5.github.io
 
